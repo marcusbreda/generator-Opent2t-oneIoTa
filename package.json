@@ -1,0 +1,28 @@
+{
+  "name": "generator-opent2t-oneiota",
+  "version": "1.0.0",
+  "description": "This is the OpenT2T generator to build translators to oneIoTa (OCF). This generator uses yeoman-generator as a based and yo for CLI commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusbreda/generator-Opent2t-oneIoTa.git"
+  },
+  "keywords": [
+    "opent2t;",
+    "yeoman-generator;",
+    "ocf;",
+    "oneIoTa"
+  ],
+  "author": "marcusbreda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcusbreda/generator-Opent2t-oneIoTa/issues"
+  },
+  "homepage": "https://github.com/marcusbreda/generator-Opent2t-oneIoTa#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
